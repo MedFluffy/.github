@@ -9,7 +9,7 @@ Our project combines technology from machine learning, android, and cloud comput
 ## Team Members
 | Name | Bangkit ID | GitHub | LinkedIn |
 | ------ | ------ | ------ | ------ |
-| Aditya Fakhri | M7180F1749 | [![github-follow][github-shield]][github-rhmdin] | [![linkedin][linkedin-shield]][linkedin-darell] |
+| Aditya Fakhri | M7180F1749 | [![github-follow][github-shield]][github-shafiq] | [![linkedin][linkedin-shield]][linkedin-darell] |
 | Aldi Dwi Putro | M2180F1750 | [![github-follow][github-shield]][github-abed] | [![linkedin][linkedin-shield]][linkedin-abed] |
 | Rahmadina | A2180F1748 | [![github-follow][github-shield]][github-shafiq] | [![linkedin][linkedin-shield]][linkedin-shafiq] |
 | Aleisya Zahari S | A2271F2348 | [![github-follow][github-shield]][github-bagas] | [![linkedin][linkedin-shield]][linkedin-bagas] |
