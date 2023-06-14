@@ -1,20 +1,20 @@
-# C22-PS024 - Bangkit 2022 Capstone Team (Tandur)
+# C23-P - Bangkit 2023 Capstone Team (Medfluffy)
 
 ## Hello Everyone! :wave:
 
-We are from team C22-PS024, and this is our project repository.
+We are from team C23, and this is our project repository.
 
 Our project combines technology from machine learning, android, and cloud computing to produce a mobile application that can predict the best crops/plants based on geospatial conditions.
 
 ## Team Members
 | Name | Bangkit ID | GitHub | LinkedIn |
 | ------ | ------ | ------ | ------ |
-| Darell Liu Hermawan | M7180F1749 | [![github-follow][github-shield]][github-darell] | [![linkedin][linkedin-shield]][linkedin-darell] |
-| Reza Abid Abistha | M2180F1750 | [![github-follow][github-shield]][github-abed] | [![linkedin][linkedin-shield]][linkedin-abed] |
-| Iqbal Shafiq Rozaan | A2180F1748 | [![github-follow][github-shield]][github-shafiq] | [![linkedin][linkedin-shield]][linkedin-shafiq] |
-| Bagas Wahyu Andrian | A2271F2348 | [![github-follow][github-shield]][github-bagas] | [![linkedin][linkedin-shield]][linkedin-bagas] |
-| Muhammad Firdaus Maulana | C2123G1560 | [![github-follow][github-shield]][github-daus] | [![linkedin][linkedin-shield]][linkedin-daus] |
-| Atharian Rahmadani | C2123G1561 | [![github-follow][github-shield]][github-rian] | [![linkedin][linkedin-shield]][linkedin-rian] |
+| Aditya Fakhri | M7180F1749 | [![github-follow][github-shield]][github-adityafakhrii] | [![linkedin][linkedin-shield]][linkedin-darell] |
+| Aldi Dwi Putro | M2180F1750 | [![github-follow][github-shield]][github-abed] | [![linkedin][linkedin-shield]][linkedin-abed] |
+| Rahmadina | A2180F1748 | [![github-follow][github-shield]][github-shafiq] | [![linkedin][linkedin-shield]][linkedin-shafiq] |
+| Aleisya Zahari S | A2271F2348 | [![github-follow][github-shield]][github-bagas] | [![linkedin][linkedin-shield]][linkedin-bagas] |
+|  Andre Chandra | C2123G1560 | [![github-follow][github-shield]][github-daus] | [![linkedin][linkedin-shield]][linkedin-daus] |
+| Fikriyah Istiqomah | C2123G1561 | [![github-follow][github-shield]][github-rian] | [![linkedin][linkedin-shield]][linkedin-rian] |
 
 ## Project Branch
 - [Machine Learning][github-tandur-ml]
