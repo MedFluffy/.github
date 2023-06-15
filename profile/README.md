@@ -2,9 +2,9 @@
 
 ## Hello Everyone! :wave:
 
-We are from team C23, and this is our project repository.
+We are from team C23-PC652 (Medfluffy), and this is our project repository.
 
-Our project combines technology from machine learning, android, and cloud computing to produce a mobile application that can predict the best crops/plants based on geospatial conditions.
+Our project combines technology from machine learning, android, and cloud computing to produce a mobile application that can detect disease on pets and its first aid.
 
 ## Team Members
 | Name | Bangkit ID | GitHub | LinkedIn |
@@ -26,31 +26,31 @@ Our project combines technology from machine learning, android, and cloud comput
 
 [//]: # (LINKS)
 
-[github-medfluffy-ml]: https://github.com/Tandur-Team/tandur-ml
-[github-medfluffy-android]: https://github.com/Tandur-Team/tandur-android
-[github-medfluffy-backend]: https://github.com/Tandur-Team/tandur-backend
+[github-medfluffy-ml]: https://github.com/MedFluffy/medfluffy-ml
+[github-medfluffy-android]: https://github.com/MedFluffy/medfluffy-android
+[github-medfluffy-backend]: https://github.com/MedFluffy/medfluffy-backend
 
 [github-shield]: https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=white
 
-[github-adit]: https://github.com/atharianr
-[github-ale]: https://github.com/firdaus452maulana
-[github-andre]: https://github.com/iam2dael2
-[github-isti]: https://github.com/rezaabid
-[github-dina]: https://github.com/bagasandriann
-[github-aldi]: https://github.com/iqbalShafiq
+[github-adit]: https://github.com/adityafakhrii
+[github-ale]: https://github.com/AleisyaZahari
+[github-andre]: https://github.com/AndreC097
+[github-isti]: https://github.com/fikriyahistiqomah
+[github-dina]: https://github.com/rhmdin
+[github-aldi]: https://github.com/fikrialdi10
 
-[github-follow-rian]: https://img.shields.io/github/followers/atharianr?style=for-the-badge
-[github-follow-daus]: https://img.shields.io/github/followers/firdaus452maulana?style=social
-[github-follow-darell]: https://img.shields.io/github/followers/iam2dael2?style=social
-[github-follow-abed]: https://img.shields.io/github/followers/rezaabid?style=social
-[github-follow-bagas]: https://img.shields.io/github/followers/bagasandriann?style=social
-[github-follow-shafiq]: https://img.shields.io/github/followers/iqbalShafiq?style=social&
+[github-follow-adit]: https://img.shields.io/github/followers/adityafakhrii?style=for-the-badge
+[github-follow-ale]: https://img.shields.io/github/followers/AleisyaZahari?style=social
+[github-follow-andre]: https://img.shields.io/github/followers/AndreC097?style=social
+[github-follow-isti]: https://img.shields.io/github/followers/fikriyahistiqomah?style=social
+[github-follow-dina]: https://img.shields.io/github/followers/rhmdin?style=social
+[github-follow-aldi]: https://img.shields.io/github/followers/fikrialdi10?style=social&
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-[linkedin-rian]: https://www.linkedin.com/in/atharianr/
-[linkedin-daus]: https://www.linkedin.com/in/muhammad-firdaus-maulana/
-[linkedin-darell]: https://www.linkedin.com/in/darell-hermawan-887201223/
-[linkedin-abed]: https://www.linkedin.com/in/reza-abid-abistha-857b6a234/
-[linkedin-bagas]: https://www.linkedin.com/in/bagas-andrian-b09486204/
-[linkedin-shafiq]: https://www.linkedin.com/in/iqbalshafiq/
+[linkedin-adit]: https://www.linkedin.com/in/adityafakhrii/
+[linkedin-ale]: https://www.linkedin.com/in/aleisya-zahari-salam-5b8090222/
+[linkedin-andrel]: https://www.linkedin.com/in/andre-chandra-a445b2271/
+[linkedin-isti]: https://www.linkedin.com/in/fikriyahistiqomah/
+[linkedin-dina]: https://www.linkedin.com/in/rhmdin/
+[linkedin-aldi]: https://www.linkedin.com/in/fikrialdi/
