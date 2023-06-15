@@ -1,4 +1,4 @@
-# C23-P - Bangkit 2023 Capstone Team (Medfluffy)
+# C23-PC652 - Bangkit 2023 Capstone Team (Medfluffy)
 
 ## Hello Everyone! :wave:
 
@@ -9,37 +9,35 @@ Our project combines technology from machine learning, android, and cloud comput
 ## Team Members
 | Name | Bangkit ID | GitHub | LinkedIn |
 | ------ | ------ | ------ | ------ |
-| Aditya Fakhri | M7180F1749 | [![github-follow][github-shield]][github-shafiq] | [![linkedin][linkedin-shield]][linkedin-darell] |
-| Aldi Dwi Putro | M2180F1750 | [![github-follow][github-shield]][github-abed] | [![linkedin][linkedin-shield]][linkedin-abed] |
-| Rahmadina | A2180F1748 | [![github-follow][github-shield]][github-shafiq] | [![linkedin][linkedin-shield]][linkedin-shafiq] |
-| Aleisya Zahari S | A2271F2348 | [![github-follow][github-shield]][github-bagas] | [![linkedin][linkedin-shield]][linkedin-bagas] |
-|  Andre Chandra | C2123G1560 | [![github-follow][github-shield]][github-daus] | [![linkedin][linkedin-shield]][linkedin-daus] |
-| Fikriyah Istiqomah | C2123G1561 | [![github-follow][github-shield]][github-rian] | [![linkedin][linkedin-shield]][linkedin-rian] |
+| Aditya Fakhri Riansyah | A373DSX2031 | [![github-follow][github-shield]][github-adit] | [![linkedin][linkedin-shield]][linkedin-adit] |
+| Aleisya Zahari Salam | M297DSY0440 | [![github-follow][github-shield]][github-ale] | [![linkedin][linkedin-shield]][linkedin-ale] |
+| Andre Chandra | M151DSX3396 | [![github-follow][github-shield]][github-andre] | [![linkedin][linkedin-shield]][linkedin-andre] |
+| Fikriyah Istiqomah | M013DSY3316 | [![github-follow][github-shield]][github-isti] | [![linkedin][linkedin-shield]][linkedin-isti] |
+|  Rahmadina | C137DSY1652 | [![github-follow][github-shield]][github-dina] | [![linkedin][linkedin-shield]][linkedin-dina] |
+| Fikri Aldi Dwi Putro | C013DSX2789 | [![github-follow][github-shield]][github-aldi] | [![linkedin][linkedin-shield]][linkedin-aldi] |
 
 ## Project Branch
-- [Machine Learning][github-tandur-ml]
-- [Machine Learning Production (Plants Survival Rate Prediction)][github-tandur-ml-production]
-- [Android][github-tandur-android]
-- [Backend][github-tandur-backend]
+- [Machine Learning][github-medfluffy-ml]
+- [Android][github-medfluffy-android]
+- [Backend][github-medfluffy-backend]
 
 
 
 
 [//]: # (LINKS)
 
-[github-tandur-ml]: https://github.com/Tandur-Team/tandur-ml
-[github-tandur-ml-production]: https://github.com/Tandur-Team/tandur-ml-production
-[github-tandur-android]: https://github.com/Tandur-Team/tandur-android
-[github-tandur-backend]: https://github.com/Tandur-Team/tandur-backend
+[github-medfluffy-ml]: https://github.com/Tandur-Team/tandur-ml
+[github-medfluffy-android]: https://github.com/Tandur-Team/tandur-android
+[github-medfluffy-backend]: https://github.com/Tandur-Team/tandur-backend
 
 [github-shield]: https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=white
 
-[github-rian]: https://github.com/atharianr
-[github-daus]: https://github.com/firdaus452maulana
-[github-darell]: https://github.com/iam2dael2
-[github-abed]: https://github.com/rezaabid
-[github-bagas]: https://github.com/bagasandriann
-[github-shafiq]: https://github.com/iqbalShafiq
+[github-adit]: https://github.com/atharianr
+[github-ale]: https://github.com/firdaus452maulana
+[github-andre]: https://github.com/iam2dael2
+[github-isti]: https://github.com/rezaabid
+[github-dina]: https://github.com/bagasandriann
+[github-aldi]: https://github.com/iqbalShafiq
 
 [github-follow-rian]: https://img.shields.io/github/followers/atharianr?style=for-the-badge
 [github-follow-daus]: https://img.shields.io/github/followers/firdaus452maulana?style=social
