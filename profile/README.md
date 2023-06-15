@@ -2,7 +2,7 @@
 
 # Bangkit 2023 Product Capstone
 
-## WHat is MedFLuffy?
+## What is MedFLuffy?
 
 A mobile application that helps pet owner to detect what their beloved pets disease and how to give the first aid for them in just a single take. The main feature is letting the user know what is the disease of their pets suffering of. To support the main feature, we also give some information about the disease such as what are the symptons and how to give the first aid for them.
 
@@ -17,11 +17,11 @@ You can try MedFluffy now by downloading the app here
 
 
 ## Tech Stack
-######Mobile Development
+###### Mobile Development
 Kotlin
-######Machine Learning
+###### Machine Learning
 Python, TensorFlow, 
-### Cloud Computing
+###### Cloud Computing
 Python, Fast API, Docker, Google Cloud Platform
 
 
