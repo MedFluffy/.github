@@ -2,11 +2,28 @@
 
 # Bangkit 2023 Product Capstone
 
-## Hello Everyone! :wave:
+## WHat is MedFLuffy?
 
-We are from team C23-PC652 (Medfluffy), and this is our project repository.
+A mobile application that helps pet owner to detect what their beloved pets disease and how to give the first aid for them in just a single take. The main feature is letting the user know what is the disease of their pets suffering of. To support the main feature, we also give some information about the disease such as what are the symptons and how to give the first aid for them.
 
-Our project combines technology from machine learning, android, and cloud computing to produce a mobile application that can detect disease on pets and its first aid.
+## Try it now!
+You can try MedFluffy now by downloading the app here
+
+## This project is supported by:
+– Bangkit Academy 2023 by Google, GoTo, and Traveloka
+– Merdeka Belajar Kampus Merdeka 
+
+## Documentation
+
+
+## Tech Stack
+### Mobile Development
+Kotlin
+### Machine Learning
+Python, TensorFlow, 
+### Cloud Computing
+Python, Fast API, Docker, Google Cloud Platform
+
 
 ## Team Members
 | Name | Bangkit ID | GitHub | LinkedIn |
