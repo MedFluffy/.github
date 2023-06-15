@@ -12,14 +12,14 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 - [Merdeka Belajar Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/) 
 
 ## Contact The Developers
-| Name | GitHub | LinkedIn |
-| ------ | ------ | ------ |
-| Aditya Fakhri Riansyah | [![github-follow][github-shield]][github-adit] | [![linkedin][linkedin-shield]][linkedin-adit] |
-| Aleisya Zahari Salam | [![github-follow][github-shield]][github-ale] | [![linkedin][linkedin-shield]][linkedin-ale] |
-| Andre Chandra | [![github-follow][github-shield]][github-andre] | [![linkedin][linkedin-shield]][linkedin-andre] |
-| Fikriyah Istiqomah | [![github-follow][github-shield]][github-isti] | [![linkedin][linkedin-shield]][linkedin-isti] |
-|  Rahmadina | [![github-follow][github-shield]][github-dina] | [![linkedin][linkedin-shield]][linkedin-dina] |
-| Fikri Aldi Dwi Putro | [![github-follow][github-shield]][github-aldi] | [![linkedin][linkedin-shield]][linkedin-aldi] |
+| Name | GitHub | GitHub | LinkedIn |
+| ------ | ------ | ------ | ------ |
+| Aditya Fakhri Riansyah | Andoroid Developer | [![github-follow][github-shield]][github-adit] | [![linkedin][linkedin-shield]][linkedin-adit] |
+| Fikri Aldi Dwi Putro | Cloud Engineer | [![github-follow][github-shield]][github-aldi] | [![linkedin][linkedin-shield]][linkedin-aldi] |
+| Rahmadina | Cloud Engineer | [![github-follow][github-shield]][github-dina] | [![linkedin][linkedin-shield]][linkedin-dina] |
+| Aleisya Zahari Salam | ML Engineer | [![github-follow][github-shield]][github-ale] | [![linkedin][linkedin-shield]][linkedin-ale] |
+| Andre Chandra | ML Engineer | [![github-follow][github-shield]][github-andre] | [![linkedin][linkedin-shield]][linkedin-andre] |
+| Fikriyah Istiqomah | ML Engineer | [![github-follow][github-shield]][github-isti] | [![linkedin][linkedin-shield]][linkedin-isti] |
 
 ## Related Links
 - [Machine Learning Repository][github-medfluffy-ml]
