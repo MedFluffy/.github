@@ -7,10 +7,6 @@ A mobile application that helps pet owner to detect what their beloved pets dise
 ## Try it now!
 You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.kemdikbud.go.id/) 
 
-## This project is supported by
-- [Bangkit Academy 2023 led by Google, GoTo, & Traveloka](https://kampusmerdeka.kemdikbud.go.id/) 
-- [Merdeka Belajar Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/) 
-
 ## Contact The Developers
 | Name | GitHub | GitHub | LinkedIn |
 | ------ | ------ | ------ | ------ |
@@ -21,11 +17,16 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 | Andre Chandra | ML Engineer | [![github-follow][github-shield]][github-andre] | [![linkedin][linkedin-shield]][linkedin-andre] |
 | Fikriyah Istiqomah | ML Engineer | [![github-follow][github-shield]][github-isti] | [![linkedin][linkedin-shield]][linkedin-isti] |
 
-## Related Links
+## Miscellaneous
 - [Machine Learning Repository][github-medfluffy-ml]
 - [Android Repository][github-medfluffy-android]
 - [Backend Repository][github-medfluffy-backend]
+- MedFLuffy currently is only able to predict healthy and Nuclear Sclerosis on dog eyes disease
 
+
+## This project is supported by
+- [Bangkit Academy 2023 led by Google, GoTo, & Traveloka](https://kampusmerdeka.kemdikbud.go.id/) 
+- [Merdeka Belajar Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/) 
 
 
 
