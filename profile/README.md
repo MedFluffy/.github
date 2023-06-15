@@ -1,4 +1,4 @@
-![Medfluffy Logo](https://drive.google.com/file/d/1o1-L-ukp6bHrPAGKdOyK_KCwCwJsvWaD/view?usp=sharing)
+![Medfluffy Logo](https://myoctocat.com/assets/images/base-octocat.svg)
 
 # Bangkit 2023 Product Capstone
 
@@ -24,20 +24,20 @@ Python, Fast API, Docker, Google Cloud Platform
 
 ## Documentation
 
-## Team Members
-| Name | Bangkit ID | GitHub | LinkedIn |
+## Contact The Developers
+| Name | GitHub | LinkedIn |
 | ------ | ------ | ------ | ------ |
-| Aditya Fakhri Riansyah | A373DSX2031 | [![github-follow][github-shield]][github-adit] | [![linkedin][linkedin-shield]][linkedin-adit] |
-| Aleisya Zahari Salam | M297DSY0440 | [![github-follow][github-shield]][github-ale] | [![linkedin][linkedin-shield]][linkedin-ale] |
-| Andre Chandra | M151DSX3396 | [![github-follow][github-shield]][github-andre] | [![linkedin][linkedin-shield]][linkedin-andre] |
-| Fikriyah Istiqomah | M013DSY3316 | [![github-follow][github-shield]][github-isti] | [![linkedin][linkedin-shield]][linkedin-isti] |
-|  Rahmadina | C137DSY1652 | [![github-follow][github-shield]][github-dina] | [![linkedin][linkedin-shield]][linkedin-dina] |
-| Fikri Aldi Dwi Putro | C013DSX2789 | [![github-follow][github-shield]][github-aldi] | [![linkedin][linkedin-shield]][linkedin-aldi] |
+| Aditya Fakhri Riansyah | [![github-follow][github-shield]][github-adit] | [![linkedin][linkedin-shield]][linkedin-adit] |
+| Aleisya Zahari Salam | [![github-follow][github-shield]][github-ale] | [![linkedin][linkedin-shield]][linkedin-ale] |
+| Andre Chandra | [![github-follow][github-shield]][github-andre] | [![linkedin][linkedin-shield]][linkedin-andre] |
+| Fikriyah Istiqomah | [![github-follow][github-shield]][github-isti] | [![linkedin][linkedin-shield]][linkedin-isti] |
+|  Rahmadina | [![github-follow][github-shield]][github-dina] | [![linkedin][linkedin-shield]][linkedin-dina] |
+| Fikri Aldi Dwi Putro | [![github-follow][github-shield]][github-aldi] | [![linkedin][linkedin-shield]][linkedin-aldi] |
 
-## Project Branch
-- [Machine Learning][github-medfluffy-ml]
-- [Android][github-medfluffy-android]
-- [Backend][github-medfluffy-backend]
+## Related Links
+- [Machine Learning Repository][github-medfluffy-ml]
+- [Android Repository][github-medfluffy-android]
+- [Backend Repository][github-medfluffy-backend]
 
 
 
