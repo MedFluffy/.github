@@ -50,7 +50,7 @@ Our project combines technology from machine learning, android, and cloud comput
 
 [linkedin-adit]: https://www.linkedin.com/in/adityafakhrii/
 [linkedin-ale]: https://www.linkedin.com/in/aleisya-zahari-salam-5b8090222/
-[linkedin-andrel]: https://www.linkedin.com/in/andre-chandra-a445b2271/
+[linkedin-andre]: https://www.linkedin.com/in/andre-chandra-a445b2271/
 [linkedin-isti]: https://www.linkedin.com/in/fikriyahistiqomah/
 [linkedin-dina]: https://www.linkedin.com/in/rhmdin/
 [linkedin-aldi]: https://www.linkedin.com/in/fikrialdi/
