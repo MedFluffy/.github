@@ -9,21 +9,20 @@ A mobile application that helps pet owner to detect what their beloved pets dise
 ## Try it now!
 You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.kemdikbud.go.id/) 
 
-## This project is supported by:
+## This project is supported by
 - [Bangkit Academy 2023 led by Google, GoTo, & Traveloka](https://kampusmerdeka.kemdikbud.go.id/) 
 - [Merdeka Belajar Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/) 
 
-## Documentation
-
-
 ## Tech Stack
-###### Mobile Development
+- Mobile Development
 Kotlin
-###### Machine Learning
+- Machine Learning
 Python, TensorFlow, 
-###### Cloud Computing
+- Cloud Computing
 Python, Fast API, Docker, Google Cloud Platform
 
+
+## Documentation
 
 ## Team Members
 | Name | Bangkit ID | GitHub | LinkedIn |
