@@ -10,8 +10,8 @@ A mobile application that helps pet owner to detect what their beloved pets dise
 You can try MedFluffy now by downloading the app here
 
 ## This project is supported by:
-– Bangkit Academy 2023 by Google, GoTo, and Traveloka
-– Merdeka Belajar Kampus Merdeka 
+– [Bangkit Academy 2023 led by Google, GoTo, & Traveloka](https://kampusmerdeka.kemdikbud.go.id/) 
+– [Merdeka Belajar Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/) 
 
 ## Documentation
 
