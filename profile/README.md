@@ -17,7 +17,7 @@ You can try MedFluffy now by downloading the app here
 
 
 ## Tech Stack
-######Mobile Development###### : Kotlin
+######Mobile Development
 Kotlin
 ######Machine Learning
 Python, TensorFlow, 
