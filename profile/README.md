@@ -1,4 +1,6 @@
-# Bangkit 2023 Product Capstone - Medfluffy
+![Medfluffy Logo](https://drive.google.com/file/d/1o1-L-ukp6bHrPAGKdOyK_KCwCwJsvWaD/view?usp=sharing)
+
+# Bangkit 2023 Product Capstone
 
 ## Hello Everyone! :wave:
 
