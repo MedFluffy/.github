@@ -1,4 +1,4 @@
-# C23-PC652 - Bangkit 2023 Capstone Team (Medfluffy)
+# Bangkit 2023 Product Capstone - Medfluffy
 
 ## Hello Everyone! :wave:
 
