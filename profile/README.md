@@ -7,11 +7,11 @@
 A mobile application that helps pet owner to detect what their beloved pets disease and how to give the first aid for them in just a single take. The main feature is letting the user know what is the disease of their pets suffering of. To support the main feature, we also give some information about the disease such as what are the symptons and how to give the first aid for them.
 
 ## Try it now!
-You can try MedFluffy now by downloading the app here
+You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.kemdikbud.go.id/) 
 
 ## This project is supported by:
-– [Bangkit Academy 2023 led by Google, GoTo, & Traveloka](https://kampusmerdeka.kemdikbud.go.id/) 
-– [Merdeka Belajar Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/) 
+- [Bangkit Academy 2023 led by Google, GoTo, & Traveloka](https://kampusmerdeka.kemdikbud.go.id/) 
+- [Merdeka Belajar Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/) 
 
 ## Documentation
 
