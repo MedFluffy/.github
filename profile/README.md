@@ -1,4 +1,4 @@
-![Medfluffy Logo](https://myoctocat.com/assets/images/base-octocat.svg)
+![Medfluffy Logo]([https://myoctocat.com/assets/images/base-octocat.svg](https://storage.googleapis.com/medfluffy-resources/logo.png))
 
 # Bangkit 2023 Product Capstone
 
