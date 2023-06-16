@@ -1,4 +1,4 @@
-![Medfluffy Logo]([https://myoctocat.com/assets/images/base-octocat.svg](https://storage.googleapis.com/medfluffy-resources/logo.png))
+<img src="https://storage.googleapis.com/medfluffy-resources/logo.png" width="200">
 
 ## What is MedFLuffy?
 
