@@ -10,7 +10,7 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 ## Contact The Developers
 | Name | GitHub | GitHub | LinkedIn |
 | ------ | ------ | ------ | ------ |
-| Aditya Fakhri Riansyah | Andoroid Developer | [![github-follow][github-shield]][github-adit] | [![linkedin][linkedin-shield]][linkedin-adit] |
+| Aditya Fakhri Riansyah | Android Developer | [![github-follow][github-shield]][github-adit] | [![linkedin][linkedin-shield]][linkedin-adit] |
 | Fikri Aldi Dwi Putro | Cloud Engineer | [![github-follow][github-shield]][github-aldi] | [![linkedin][linkedin-shield]][linkedin-aldi] |
 | Rahmadina | Cloud Engineer | [![github-follow][github-shield]][github-dina] | [![linkedin][linkedin-shield]][linkedin-dina] |
 | Aleisya Zahari Salam | ML Engineer | [![github-follow][github-shield]][github-ale] | [![linkedin][linkedin-shield]][linkedin-ale] |
