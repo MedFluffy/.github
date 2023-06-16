@@ -21,7 +21,7 @@ You can try MedFluffy now by downloading the app [here](https://kampusmerdeka.ke
 - [Machine Learning Repository][github-medfluffy-ml]
 - [Android Repository][github-medfluffy-android]
 - [Backend Repository][github-medfluffy-backend]
-- MedFLuffy currently is only able to predict healthy and Nuclear Sclerosis on dog eyes disease
+- Currently, MedFluffy is only able to predict healthy and Nuclear Sclerosis on dog eyes disease
 
 
 ## This project is supported by
